@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Ram Kumar",
+    "phone_no": "80001 90001",
+    "address": "Bharka Para",
+    "city": "Rajnandgaon",
+    "speciality": "MBBS",
+    "openingHour": "08:00AM",
+    "closingHour": "08:00PM"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Dinesh Jain",
+    "phone_no": "80002 90002",
+    "address": "Ganj Chowk",
+    "city": "Rajnandgaon",
+    "speciality": "ORTHOPEDICS",
+    "openingHour": "09:00AM",
+    "closingHour": "11:00PM"
+  },
+
+  {
+    "id": 3,
+    "name": "Dr. Pradeep Singh",
+    "phone_no": "80003 90003",
+    "address": "Bhadoriya Chowk",
+    "city": "Rajnandgaon",
+    "speciality": "GENERAL SURGERY",
+    "openingHour": "08:00AM",
+    "closingHour": "10:00PM"
+  }
+]
