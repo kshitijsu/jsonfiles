@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "docname": "Dr. ABC",
+    "date": "02-03-2020",
+    "time": "07:30 PM",
+    "status": "Request Pending"
+  },
+  {
+    "id": 2,
+    "docname": "Dr. DEF",
+    "date": "27-02-2020",
+    "time": "09:30 AM",
+    "status": "Completed"
+  }
+]
