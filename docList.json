@@ -32,5 +32,16 @@
     "openingHour": "08:00AM",
     "closingHour": "10:00PM",
     "status": "Open"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Alok Mishra",
+    "phoneNo": "80004 90004",
+    "address": "Ghadi Chowk",
+    "city": "Rajnandgaon",
+    "speciality": "EYE SPECIALIST",
+    "openingHour": "08:00AM",
+    "closingHour": "10:00PM",
+    "status": "Open"
   }
 ]
